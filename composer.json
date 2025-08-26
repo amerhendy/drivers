@@ -3,7 +3,7 @@
     "description": "nsscww driver package",
     "type": "library",
 	"license": "proprietary",
-	"version": "0.0.1",
+	"version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Amerhendy\\Drivers\\": "src/"
